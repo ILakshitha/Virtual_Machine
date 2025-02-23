@@ -107,5 +107,5 @@ f.close()
 	
 runm();
 	
-print(reg);
+printf(reg);
 print(memory);
